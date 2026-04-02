@@ -64,22 +64,22 @@ def get_channel():
         response.raise_for_status()
         Logger.log_message(f'Channels request to {url} successful', 'INFO')
     except requests.exceptions.RequestException as e:
-        logger.log_message(f'Channels request to {url} failed: {e}', 'ERROR')
+        Logger.log_message(f'Channels request to {url} failed: {e}', 'ERROR')
         return None
 
     try:
         json_response = response.json()
     except json.JSONDecodeError:
-        logger.log_message(f'Impossible to retrieve Channels using url {url}: no json to process', 'ERROR')
-        logger.log_message(f'Response text: {response.text}', 'ERROR')
+        Logger.log_message(f'Impossible to retrieve Channels using url {url}: no json to process', 'ERROR')
+        Logger.log_message(f'Response text: {response.text}', 'ERROR')
         return None
-    logger.log_message(f'Channels obtained', 'INFO')
+    Logger.log_message(f'Channels obtained', 'INFO')
     return json_response
 
 ####################### main #########################################
 start_time = datetime.now(UTC)
-logger.log_message('Program started', 'INFO')
-logger.log_message('Getting channels', 'INFO')
+Logger.log_message('Program started', 'INFO')
+Logger.log_message('Getting channels', 'INFO')
 json_channel = get_channel()
 if json_channel:
     master_channels = extract_channels(json_channel)
@@ -88,4 +88,4 @@ if master_channels:
     with open('master_channels.json', 'w') as f:
         json.dump(master_channels, f, indent=4)
 else:
-    logger.log_message('No channels found', 'ERROR')
+    Logger.log_message('No channels found', 'ERROR')
