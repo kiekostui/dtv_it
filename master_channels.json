@@ -1,1 +1,1731 @@
-
+{
+    "1626": {
+        "id": "ducktv.it",
+        "name": "ducktv",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1626_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "647": {
+        "id": "video.italia.tv.it",
+        "name": "Video Italia TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/647_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "104": {
+        "id": "stingray.classica.i.it",
+        "name": "Stingray Classica I",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/104_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1799": {
+        "id": "radio.ticino.channel.it",
+        "name": "Radio Ticino Channel",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1799_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1499": {
+        "id": "radionorba.tv.it",
+        "name": "Radionorba TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1499_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1489": {
+        "id": "rtl.102.5.tv.it",
+        "name": "RTL 102.5 TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1489_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2064": {
+        "id": "radio.italia.tv.it",
+        "name": "Radio Italia TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2064_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1641": {
+        "id": "deejay.tv.it",
+        "name": "Deejay TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1641_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2033": {
+        "id": "disneyplus.it",
+        "name": "Disney+",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2033_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "356": {
+        "id": "rsi.la.1.it",
+        "name": "RSI LA 1",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/356_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "357": {
+        "id": "rsi.la.2.it",
+        "name": "RSI LA 2",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/357_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "79": {
+        "id": "canale.5.it",
+        "name": "Canale 5",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/79_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "327": {
+        "id": "rai.1.it",
+        "name": "Rai 1",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/327_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "328": {
+        "id": "rai.2.it",
+        "name": "Rai 2",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/328_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "329": {
+        "id": "rai.3.it",
+        "name": "Rai 3",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/329_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "330": {
+        "id": "rai.4.it",
+        "name": "Rai 4",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/330_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "348": {
+        "id": "rete.4.it",
+        "name": "Rete 4",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/348_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "215": {
+        "id": "italia.1.it",
+        "name": "Italia 1",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/215_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "96": {
+        "id": "cielo.it",
+        "name": "Cielo",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/96_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "237": {
+        "id": "la.7.it",
+        "name": "La 7",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/237_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "578": {
+        "id": "tele.ticino.it",
+        "name": "Tele Ticino",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/578_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "257": {
+        "id": "mediaset.extra.it",
+        "name": "Mediaset Extra",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/257_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "216": {
+        "id": "italia.2.it",
+        "name": "Italia 2",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/216_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "592": {
+        "id": "telelombardia.it",
+        "name": "Telelombardia",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/592_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "80": {
+        "id": "canale.italia.it",
+        "name": "Canale Italia",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/80_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1380": {
+        "id": "antenna.3.it",
+        "name": "Antenna 3",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1380_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "593": {
+        "id": "telenova.it",
+        "name": "Telenova",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/593_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2113": {
+        "id": "rete.55.it",
+        "name": "Rete 55",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2113_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1806": {
+        "id": "eurochannel.it.it",
+        "name": "Eurochannel IT",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1806_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "243": {
+        "id": "la5.it",
+        "name": "La5",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/243_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "214": {
+        "id": "iris.it",
+        "name": "IRIS",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/214_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "239": {
+        "id": "la7.cinema.it",
+        "name": "La7 Cinema",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/239_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "334": {
+        "id": "rai.movie.it",
+        "name": "Rai Movie",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/334_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1379": {
+        "id": "20.mediaset.it",
+        "name": "20 Mediaset",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1379_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "336": {
+        "id": "rai.premium.it",
+        "name": "Rai Premium",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/336_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "613": {
+        "id": "top.crime.it",
+        "name": "Top Crime",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/613_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "191": {
+        "id": "giallo.it",
+        "name": "Giallo",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/191_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1388": {
+        "id": "telecity.it",
+        "name": "Telecity",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1388_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1665": {
+        "id": "cine34.it",
+        "name": "Cine34",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1665_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "266": {
+        "id": "tv8.it",
+        "name": "TV8",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/266_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1948": {
+        "id": "twentyseven.it",
+        "name": "Twentyseven",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1948_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "124": {
+        "id": "discovery.channel.i.it",
+        "name": "Discovery Channel I",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/124_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1693": {
+        "id": "history.it.it",
+        "name": "History IT",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1693_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1975": {
+        "id": "sky.crime.it.it",
+        "name": "Sky Crime IT",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1975_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "137": {
+        "id": "dmax.italia.it",
+        "name": "DMAX Italia",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/137_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "335": {
+        "id": "rai.news.24.it",
+        "name": "Rai News 24",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/335_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "346": {
+        "id": "real.time.it",
+        "name": "Real Time",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/346_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "166": {
+        "id": "euronews.i.it",
+        "name": "Euronews I",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/166_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "340": {
+        "id": "rai.storia.it",
+        "name": "Rai Storia",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/340_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1346": {
+        "id": "focus.it",
+        "name": "Focus",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1346_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "331": {
+        "id": "rai.5.it",
+        "name": "Rai 5",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/331_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1384": {
+        "id": "discovery.turbo.it",
+        "name": "Discovery Turbo",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1384_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1287": {
+        "id": "tgcom24.it",
+        "name": "TGCom24",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1287_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "393": {
+        "id": "sky.tg.24.it",
+        "name": "sky TG 24",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/393_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "337": {
+        "id": "rai.scuola.it",
+        "name": "Rai Scuola",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/337_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "643": {
+        "id": "uninettuno.university.tv.it",
+        "name": "UniNettuno University TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/643_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1645": {
+        "id": "espansione.tv.it",
+        "name": "Espansione TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1645_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1671": {
+        "id": "senato.tv.it",
+        "name": "Senato TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1671_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1719": {
+        "id": "san.marino.rtv.it",
+        "name": "San Marino RTV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1719_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1808": {
+        "id": "camera.dei.deputati.it",
+        "name": "Camera dei Deputati",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1808_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "118": {
+        "id": "nove.it",
+        "name": "NOVE",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/118_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2060": {
+        "id": "trentino.tv.it",
+        "name": "Trentino TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2060_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2063": {
+        "id": "telecupole.it",
+        "name": "Telecupole",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2063_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2057": {
+        "id": "telenuovo.it",
+        "name": "Telenuovo",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2057_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2167": {
+        "id": "radio.24.il.sole.24.ore.tv.it",
+        "name": "Radio 24 - Il Sole 24 Ore TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2167_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2022": {
+        "id": "pretty.tv.it",
+        "name": "Pretty TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2022_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1348": {
+        "id": "food.network.it.it",
+        "name": "Food Network IT",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1348_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "16": {
+        "id": "alma.tv.it",
+        "name": "ALMA TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/16_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "101": {
+        "id": "class.tv.moda.it",
+        "name": "Class TV Moda",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/101_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1646": {
+        "id": "home.and.garden.tv.it.it",
+        "name": "Home & Garden TV IT",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1646_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "169": {
+        "id": "eurosport.1.i.it",
+        "name": "Eurosport 1 I",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/169_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "172": {
+        "id": "eurosport.2.i.it",
+        "name": "Eurosport 2 I",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/172_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2032": {
+        "id": "inter.tv.it",
+        "name": "Inter TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2032_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "338": {
+        "id": "rai.sport.plus.it",
+        "name": "Rai Sport +",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/338_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2061": {
+        "id": "telecapri.sport.it",
+        "name": "TeleCapri Sport",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2061_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1387": {
+        "id": "sportitalia.it",
+        "name": "SPORTITALIA",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1387_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1386": {
+        "id": "supertennis.tv.it",
+        "name": "SuperTennis TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1386_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1667": {
+        "id": "top.calcio.24.it",
+        "name": "Top Calcio 24",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1667_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2049": {
+        "id": "si.solocalcio.it",
+        "name": "SI Solocalcio",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2049_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "2021": {
+        "id": "cartoon.tv.it",
+        "name": "Cartoon TV",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2021_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "51": {
+        "id": "boing.i.it",
+        "name": "Boing I",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/51_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "332": {
+        "id": "rai.gulp.it",
+        "name": "Rai Gulp",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/332_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "84": {
+        "id": "cartoonito.i.it",
+        "name": "cartoonito I",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/84_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "225": {
+        "id": "k2.it",
+        "name": "K2",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/225_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "189": {
+        "id": "frisbee.it",
+        "name": "Frisbee",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/189_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "341": {
+        "id": "rai.yoyo.it",
+        "name": "Rai Yoyo",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/341_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "412": {
+        "id": "super.it",
+        "name": "Super!",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/412_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "633": {
+        "id": "tv2000.it",
+        "name": "TV2000",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/633_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1951": {
+        "id": "parole.di.vita.it",
+        "name": "Parole di Vita",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1951_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1382": {
+        "id": "italia.channel.it",
+        "name": "Italia Channel",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1382_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
+    "1727": {
+        "id": "inhouse.channel.it",
+        "name": "Inhouse Channel",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1727_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    }
+}
