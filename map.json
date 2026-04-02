@@ -1,0 +1,36 @@
+[
+   {
+      "@iter:@s.Nodes.Items.*":[
+         {"@var:id_n": "@s.Identifier"},
+         {
+            "@iter:@s.Content.Nodes.Items.*":[
+               {"@new:@t.&id_n.programs.$program": ""},
+               {"@var:wSt_Ep": "@comp(St, @s.Content.Series.Season,Ep, @s.Content.Series.Episode,\\ )"},
+               {"@var:St_Ep": "@regex(&wSt_Ep,(St[0-9]+Ep[0-9]+\\s))"},
+               {"@var:Subtitle": "@s.Content.Description.Subtitle"},
+               {"@t.&id_n.programs.!.title": "@s.Content.Description.Title"},
+               {"@t.&id_n.programs.!.subtitle": "@comp:(&St_Ep,&Subtitle)"},
+               {"@t.&id_n.programs.!.description": "@s.Content.Description.Summary"},
+               {"@t.&id_n.programs.!.duration": "@s.Content.Description.Duration"},
+               {"@t.&id_n.programs.!.start": "@s.Availabilities.0.AvailabilityStart"},
+               {"@t.&id_n.programs.!.end": "@s.Availabilities.0.AvailabilityEnd"},
+               {"@var:poster_path": "@s.Content.Nodes.Items.1.ContentPath"},
+               {"@t.&id_n.programs.!.poster": "@comp(https://services.sg101.prd.sctv.ch/content/images/,&poster_path,_w300.png)"}
+            ]
+         }
+
+      ]
+   }
+]
+
+
+
+
+
+
+
+
+
+
+
+
