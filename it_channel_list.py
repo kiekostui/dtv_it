@@ -2,6 +2,7 @@ import requests
 import re
 import json
 from datetime import datetime, UTC
+from JMapper.utils import Logger
 
 def generate_id(name):
     name = name.lower().strip()
@@ -46,10 +47,9 @@ def extract_channels(json_channel):
                      ]
                 ]
            }
-    print(f'{timestamp()} [INFO] {len(master_channels)} Channels extracted')
+    Logger.log_message(f'{len(master_channels)} Channels extracted', 'INFO')
     return master_channels
             
-
 def get_channel():
     url = 'https://services.sg101.prd.sctv.ch/portfolio/tv/channels'
     headers={
@@ -62,25 +62,24 @@ def get_channel():
     try:
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
-        print(f'{timestamp()} [INFO] Channels request to {url} successful')
+        Logger.log_message(f'Channels request to {url} successful', 'INFO')
     except requests.exceptions.RequestException as e:
-        print(f'{timestamp()} [ERROR] Channels request to {url} failed: {e}')
+        logger.log_message(f'Channels request to {url} failed: {e}', 'ERROR')
         return None
 
     try:
         json_response = response.json()
     except json.JSONDecodeError:
-        print(f'{timestamp()} [ERROR] Impossible to retrieve Channels using url {url}: no json to process')
-        print(f'{timestamp()} [ERROR] Response text: {response.text}')
+        logger.log_message(f'Impossible to retrieve Channels using url {url}: no json to process', 'ERROR')
+        logger.log_message(f'Response text: {response.text}', 'ERROR')
         return None
-
-    print(f'{timestamp()} [INFO] Channels obtained')
+    logger.log_message(f'Channels obtained', 'INFO')
     return json_response
 
 ####################### main #########################################
 start_time = datetime.now(UTC)
-print(f'{start_time.strftime("%Y-%m-%dT%H:%M:%S")} [INFO] Program started')
-print(f'{timestamp()} [INFO] Getting channels')
+logger.log_message('Program started', 'INFO')
+logger.log_message('Getting channels', 'INFO')
 json_channel = get_channel()
 if json_channel:
     master_channels = extract_channels(json_channel)
@@ -89,6 +88,4 @@ if master_channels:
     with open('master_channels.json', 'w') as f:
         json.dump(master_channels, f, indent=4)
 else:
-    print(f'{timestamp()} [INFO] No channels found')
-
-
+    logger.log_message('No channels found', 'ERROR')
