@@ -550,6 +550,25 @@
             ]
         ]
     },
+    "2186": {
+        "id": "wedotv.movies.it.it",
+        "name": "wedotv Movies IT",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/2186_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
     "243": {
         "id": "la5.it",
         "name": "La5",
