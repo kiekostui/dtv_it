@@ -170,6 +170,25 @@
             ]
         ]
     },
+    "1944": {
+        "id": "mysports.uno.i.it",
+        "name": "mySports Uno I",
+        "icon": "https://services.sg101.prd.sctv.ch/content/images/tv/channel/1944_image_7_w90.png",
+        "programs": [
+            [
+                "$program",
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "duration": "",
+                    "start": "",
+                    "end": "",
+                    "poster": null
+                }
+            ]
+        ]
+    },
     "356": {
         "id": "rsi.la.1.it",
         "name": "RSI LA 1",
